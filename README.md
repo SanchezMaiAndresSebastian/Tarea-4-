@@ -157,13 +157,14 @@
 
 ### 4. VIDEO
 
-https://youtu.be/zqn4ZFNJdAY
+https://youtu.be/_1vHFAw2yRs
 
 ### 5. CONCLUSIONES
 
 - Las características principales de un circuito mixto es de que tienen la misma corriente, pero diferentes caídas de tensión.
 - La Característica principal de un circuito en paralelo es de que tienen diferentes corrientes y el mismo voltaje en el nodo.
 - La potencia en un circuito en serie es la suma de todas las potencias que existen en los resistores que acompañan a dicho circuito en serie.
+- El theroema de norton, thevenin y de maxia tranferenciad de potencia parte del teorema de superoposición.
 
 ### 6. BIBLIOGRAFÍA
 
