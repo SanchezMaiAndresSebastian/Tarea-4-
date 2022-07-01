@@ -161,7 +161,7 @@ https://youtu.be/zqn4ZFNJdAY
 
 ### 5. CONCLUSIONES
 
-- Las características principales de un circuito en serie es de que tienen la misma corriente, pero diferentes caídas de tensión.
+- Las características principales de un circuito mixto es de que tienen la misma corriente, pero diferentes caídas de tensión.
 - La Característica principal de un circuito en paralelo es de que tienen diferentes corrientes y el mismo voltaje en el nodo.
 - La potencia en un circuito en serie es la suma de todas las potencias que existen en los resistores que acompañan a dicho circuito en serie.
 
