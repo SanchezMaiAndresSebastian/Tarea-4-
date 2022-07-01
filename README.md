@@ -17,9 +17,9 @@
 ### 2. MARCO TEORICO
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/1.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/2.png)
+![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/5.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/3.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/4.png)
-![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/5.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/6.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/7.png)
 
