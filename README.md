@@ -3,14 +3,16 @@
 ### 1. OBJETIVOS
 
 **Principales**
-- Seleccionar los conceptos más importantes de circuito en serie y en paralelo para la resolución de ejercicios.
+- Seleccionar los conceptos más importantes de circuito Mixto para la resolución de ejercicios.
 - Revisar los conceptos que se integran con los circuitos en serie y en paralelo como es ley de ohm, y leyes de Kirchhoff.
+- Desarrollar el uso de los teoremas como formas de resolucion del problemas de circuitos.
 
 **Específicos**
 
-- Identificar cuáles son las características de circuito resistivo en serie y en paralel0.
+- Identificar cuáles son las características de circuito resistivo en serie y en paralelo.
 - Determinar las potencias de un circuito en serie y en paralelo.
 - Distinguir las siguientes problemáticas que puedan ocurrir en la construcción de un circuito en serie y en paralelo.
+- Utilizar los teoremas de superoposición, thevenin, norton y maxima transferencia de energia para la resolución de prblemas de circuitos.
 - 
 ### 2. MARCO TEORICO
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea3/blob/main/Fotos/1.png)
